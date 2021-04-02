@@ -1,7 +1,7 @@
 Links-counter
 ===================
 
-One day I was wandering how many bookmarks I have in my browser. So I exported them into html, and then write this project to count bookmarks for every folder. 
+One day I was wandering how many bookmarks I have in my browser. So I exported them into html, and then write this project to count bookmarks for every folder. If you dare to run this project, firstly export your bookmarks, then click on the button in the top center window and choose exported file.
 
 It was first expience with Scala and ScalaFX.
 
@@ -52,6 +52,7 @@ SBT Native Packager
 
 Current project is configured to build package with all dependencies for Windows.
 Before running command of building package instgall ["WIX Toolset"](http://wixtoolset.org/)
-To build on other platforms take a look at [sbt-native-packager docs](https://www.scala-sbt.org/sbt-native-packager/gettingstarted.html#create-a-package)
 
 	%> sbt windows:packageBin
+
+To build on other platforms take a look at [sbt-native-packager docs](https://www.scala-sbt.org/sbt-native-packager/gettingstarted.html#create-a-package)
