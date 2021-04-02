@@ -18,7 +18,7 @@ Content
 How to build and Run
 --------------------
 
-1. Install [Java 11 JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) or newer. This project should also work with Java 10. If you are want to use Java 8 look at the [SFX-8](https://github.com/scalafx/scalafx-hello-world/tree/SFX-8) branch of this project.
+1. Install [Java 11 JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) or newer.
 
 2. Install [SBT](http://www.scala-sbt.org/)
 
