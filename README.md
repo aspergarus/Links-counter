@@ -1,7 +1,9 @@
-scalafx-hello-world
+Links-counter
 ===================
 
-Simple example of a ScalaFX application using [Simple-Build-Tool](http://www.scala-sbt.org/) (SBT).
+One day I was wandering how many bookmarks I have in my browser. So I exported them into html, and then write this project to count bookmarks for every folder. 
+
+It was first expience with Scala and ScalaFX.
 
 
 Content
